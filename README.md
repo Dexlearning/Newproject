@@ -1,5 +1,2 @@
 # Newproject
-g
-rg
-reg
-e
+fewwfwefewff
